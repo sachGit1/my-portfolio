@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/my-portfolio/static/css/main.fa520627.css",
+    "main.js": "/my-portfolio/static/js/main.bccc6416.js",
+    "static/media/hanthana-2.jpg": "/my-portfolio/static/media/hanthana-2.bdd7a3d77475f1c64c0b.jpg",
+    "static/media/chem2.jpg": "/my-portfolio/static/media/chem2.3097fba760dc7487bf1a.jpg",
+    "static/media/chem3.jpg": "/my-portfolio/static/media/chem3.d03621437b84ca945e34.jpg",
+    "static/media/zero-p-group.png": "/my-portfolio/static/media/zero-p-group.918c0e19c4a01c5c77f6.png",
+    "static/media/dubbing11.jpg": "/my-portfolio/static/media/dubbing11.c32465e40a38ded37c7a.jpg",
+    "static/media/remed.jpg": "/my-portfolio/static/media/remed.35204053f83a30658c2e.jpg",
+    "static/media/zero-p-3.jpg": "/my-portfolio/static/media/zero-p-3.22d867742ba0003c4d93.jpg",
+    "static/media/drug_des.jpg": "/my-portfolio/static/media/drug_des.3c65f88f5005cda314d9.jpg",
+    "static/media/tube.jpg": "/my-portfolio/static/media/tube.e690b74546ea6c824c70.jpg",
+    "static/media/wind_solar.jpg": "/my-portfolio/static/media/wind_solar.0c09b153288e405b4f4d.jpg",
+    "static/media/chem5.jpg": "/my-portfolio/static/media/chem5.642741784bba2de26829.jpg",
+    "static/media/green.jpg": "/my-portfolio/static/media/green.9e30a69e63a28dcefe10.jpg",
+    "static/media/chem4.jpg": "/my-portfolio/static/media/chem4.9290d882f65d59c328d6.jpg",
+    "static/media/water_01.jpg": "/my-portfolio/static/media/water_01.8cb48b7668221bb60444.jpg",
+    "static/media/radio-gang2.jpg": "/my-portfolio/static/media/radio-gang2.01afa28be4ee1e6ec08b.jpg",
+    "static/media/air_1.jpg": "/my-portfolio/static/media/air_1.a2be1acd2adfb656246f.jpg",
+    "static/media/zero-p-2.jpg": "/my-portfolio/static/media/zero-p-2.1d843e157121717dbf3e.jpg",
+    "static/media/radio-gang.jpg": "/my-portfolio/static/media/radio-gang.25ed7aaec45851628981.jpg",
+    "static/media/dubbing2.jpg": "/my-portfolio/static/media/dubbing2.5034c8d7a8cc6588b4a4.jpg",
+    "static/media/radio-group-photo.jpg": "/my-portfolio/static/media/radio-group-photo.b0164b644939ef07e864.jpg",
+    "index.html": "/my-portfolio/index.html",
+    "main.fa520627.css.map": "/my-portfolio/static/css/main.fa520627.css.map",
+    "main.bccc6416.js.map": "/my-portfolio/static/js/main.bccc6416.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fa520627.css",
+    "static/js/main.bccc6416.js"
+  ]
+}
