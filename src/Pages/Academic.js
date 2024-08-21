@@ -23,7 +23,7 @@ when I was in school, a science project on meteorology sparked my interest in en
   duo of Chemistry and Computer Science, with a complementary focus on Pure Mathematics.
 
 <h1 className='h11'>University Life and Discovering a Passion</h1> 
-<img src={img2} className='volumetrics'/>
+<img src={img3} className='tube'/>
 
 In terms of my university life, it was a catalyst for my intellectual growth and personal development. Engaged 
 in laboratories, I explored the fascinating world of chemistry, from the precision of analytical techniques to 
@@ -41,7 +41,7 @@ My undergraduate studies provided me with a deep understanding of diverse areas 
 principles to advanced applications, and allowed me to master different laboratory techniques. Through my undergraduate
  coursework, I studied material chemistry, exploring the versatility of silicones, the porous wonders of zeolites, the 
  structural marvels of fullerenes, and the bio-inspired world of biomaterials while gaining proficiency in their synthesis, 
- understanding their properties, and envisioning their applications. <br/><br/><img src={img3} className='tube'/>
+ understanding their properties, and envisioning their applications. <br/><br/><img src={img2} className='volumetrics'/>
  Also, Mineralogy captivated my attention and unveiled
   the secrets hidden within rocks and soil, from their formation to their potential applications, I developed a keen interest 
   in extraction techniques and the economic value derived from these natural treasures of Earth. In addition, Green 
