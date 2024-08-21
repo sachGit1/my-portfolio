@@ -24,6 +24,7 @@ p{
     width: 25%;
     margin-left: 5%;
     margin-top: 0rem;
+    margin-bottom: 0rem;
 }
 
 .tube{
@@ -39,5 +40,5 @@ p{
     width: 25%;
     margin-right: 5%;
     margin-top: 0rem;
-    margin-bottom: -0.5rem;
+    margin-bottom: 1rem;
 }
