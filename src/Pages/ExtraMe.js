@@ -64,17 +64,13 @@ others is incredibly rewarding.
        practical insights into promoting sustainable practices in high-traffic settings.
       </p>
 
-      <table border={0} align='center' className='table1'>
+      <table border={0} align='center' className='tableV' >
         <tr>
           <td><img className='set1' src={img10}/></td>
           <td><img className='set1' src={img7}/></td>
           
         </tr>
-        <tr>
-          
-          
-          
-        </tr>
+
       </table>
 
       <center><h1 align="center">Merging Creativity and Logic</h1></center>
@@ -85,6 +81,7 @@ others is incredibly rewarding.
          which I find incredibly rewarding. My interest in graphic design allows me to explore different artistic 
          styles and develop a keen eye for detail, adding another layer of creativity to my work. Below projects 
          are some of the nearest examples of my work, including this very webpage, which I designed and developed myself.
+         
       </p>
     </div>
     
