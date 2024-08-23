@@ -60,9 +60,12 @@ a{
 
 .middlePara{
 
-    margin-top: -20px;
-    font-family: 'Times New Roman', Times, serif;
+    margin-top: -5%;
+    max-width: 100%;
+    min-width: 100%;
+    font-family: "Poppins", sans-serif;
     font-size: 60%;
+    
 }
 
 @media (max-width: 768px) {

@@ -30,7 +30,11 @@ function ExtraMe() {
       <tr>
         <td><img className='set1' src={img1} /></td>
         
-        <td colSpan={2}><img className='set1'src={img5}/><p className='middlePara'>ffffffff</p></td>
+        <td colSpan={2}><img className='set1'src={img5}/><p className='middlePara'>This photo was taken on the day I accepted the appoinment 
+          as a radio announcer at the Sri Lanka Broadcsting Corporation in 2021.
+          I am the 2<sup>nd</sup> from the left. The 4<sup>th</sup> and 5<sup>th</sup> individuals are Senior Announcers. The 6<sup>th</sup>
+           person is Assistant Director Mr.Himananda Rajapakse, followed by Chairman Mr. Jagath Wickramasinghe as the 7<sup>th</sup>, and 
+            Senior Announcer Mr.Wasantha Rohana in 8<sup>th</sup>, along with my fellow colleagues. </p></td>
       </tr>
       <tr>
         <td><img className='set1' src={img6}/></td>
