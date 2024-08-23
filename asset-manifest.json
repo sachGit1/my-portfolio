@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/my-portfolio/static/css/main.d9b4c0b5.css",
-    "main.js": "/my-portfolio/static/js/main.4846e84e.js",
+    "main.css": "/my-portfolio/static/css/main.f6349744.css",
+    "main.js": "/my-portfolio/static/js/main.6e328a60.js",
     "static/media/hanthana-2.jpg": "/my-portfolio/static/media/hanthana-2.bdd7a3d77475f1c64c0b.jpg",
     "static/media/chem2.jpg": "/my-portfolio/static/media/chem2.3097fba760dc7487bf1a.jpg",
     "static/media/chem3.jpg": "/my-portfolio/static/media/chem3.d03621437b84ca945e34.jpg",
@@ -23,11 +23,11 @@
     "static/media/dubbing2.jpg": "/my-portfolio/static/media/dubbing2.5034c8d7a8cc6588b4a4.jpg",
     "static/media/radio-group-photo.jpg": "/my-portfolio/static/media/radio-group-photo.b0164b644939ef07e864.jpg",
     "index.html": "/my-portfolio/index.html",
-    "main.d9b4c0b5.css.map": "/my-portfolio/static/css/main.d9b4c0b5.css.map",
-    "main.4846e84e.js.map": "/my-portfolio/static/js/main.4846e84e.js.map"
+    "main.f6349744.css.map": "/my-portfolio/static/css/main.f6349744.css.map",
+    "main.6e328a60.js.map": "/my-portfolio/static/js/main.6e328a60.js.map"
   },
   "entrypoints": [
-    "static/css/main.d9b4c0b5.css",
-    "static/js/main.4846e84e.js"
+    "static/css/main.f6349744.css",
+    "static/js/main.6e328a60.js"
   ]
 }
